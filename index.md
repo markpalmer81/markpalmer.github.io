@@ -15,7 +15,6 @@
 <img src="Portfolio 10.png"/>
 <img src="Portfolio 11.png"/>
 <img src="Portfolio 12.png"/>
-<img src="Portfolio 12.png"/>
 
 <!--
 ---
