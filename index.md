@@ -1,12 +1,22 @@
 ## Portfolio
-<!--
----
 
-### Python and Pandas
+### L4 Data Analysis Skill Bootcamp
 
-<a href="https://www.kaggle.com/code/laurabu/data-analysis-hotel-booking-project" target="_blank">Exploratory Data Analysis of a Hotel Booking Dataset</a>
-<img src="snip - hotel portfolio project.jpg"/>
--->
+[Data Analysis BootCamp Portfolio - Understanding Panic Attacks](Understanding Panic Attacks_compressed.pdf)
+<img src="Portfolio 1.png"/>
+<img src="Portfolio 2.png"/>
+<img src="Portfolio 3.png"/>
+<img src="Portfolio 4.png"/>
+<img src="Portfolio 5.png"/>
+<img src="Portfolio 6.png"/>
+<img src="Portfolio 7.png"/>
+<img src="Portfolio 8.png"/>
+<img src="Portfolio 9.png"/>
+<img src="Portfolio 10.png"/>
+<img src="Portfolio 11.png"/>
+<img src="Portfolio 12.png"/>
+<img src="Portfolio 12.png"/>
+
 <!--
 ---
 ### L4 Data Analysis Skill Bootcamp
