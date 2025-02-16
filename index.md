@@ -2,7 +2,9 @@
 
 ### L4 Data Analysis Skill Bootcamp
 
-[Data Analysis BootCamp Portfolio - Understanding Panic Attacks](Understanding Panic Attacks_compressed.pdf)
+[Data Analysis BootCamp Portfolio - Jupyter Notebook](Panic Data Set Analysis.ipynb)
+[Data Analysis BootCamp Portfolio - Jupyter Dataset](Understanding Panic Attacks_compressed.pdf)
+[Data Analysis BootCamp Portfolio - Understanding Panic Attacks](panic_attack_dataset.csv)
 <img src="Portfolio 1.png"/>
 <img src="Portfolio 2.png"/>
 <img src="Portfolio 3.png"/>
